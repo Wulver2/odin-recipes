@@ -1,3 +1,3 @@
 # odin-recipes
 Website with links to recipes
-practices: basic html(links)
+practices: basic html(links), lists, images, etc
